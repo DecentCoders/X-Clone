@@ -94,7 +94,7 @@
           >
             This X-clone was made by DecentCoders. For more information
             <a
-              href="https://github.com/decent-coders"
+              href="https://github.com/DecentCoders"
               class="underline"
               target="_blank"
               >Click here</a
