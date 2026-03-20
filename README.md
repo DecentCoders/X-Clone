@@ -6,6 +6,8 @@
 
 A fully functional, open-source clone of X (formerly Twitter) built with Nuxt 3. This project replicates the core social media experience of X, with a modern, type-safe front-end architecture, responsive UI, and essential social platform features. It serves as both a production-ready foundation for custom social media projects and a practical learning resource for modern Vue/Nuxt front-end development.
 
+Features: post creation, user profiles, follow system, emoji picker
+
 ## ✨ Key Features
 ### Implemented Core Features
 - Responsive home feed with post display and consistent layout controls
